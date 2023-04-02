@@ -3,7 +3,7 @@
  
   <img width="1153" alt="image" src="https://user-images.githubusercontent.com/74632408/229340703-bff2f8a1-cedf-4df5-8ae7-2a1a8ed47b81.png">
   <br />
-  <img width="1398" alt="image" src="https://user-images.githubusercontent.com/74632408/229341420-6b1f5e69-f126-4b08-a5d4-464fdddb3cc0.png">
+  <img width="830" alt="image" src="https://user-images.githubusercontent.com/74632408/229341874-08c49bdb-8713-4e28-aef9-6e5248b930d8.png">
 
 # 2. AES-CTR mode (counter mode)
   
