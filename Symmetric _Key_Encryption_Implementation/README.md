@@ -1,8 +1,8 @@
 1. AES-CBC mode
-<img width="1102" alt="image" src="https://user-images.githubusercontent.com/74632408/229339806-adb5f652-f92c-4ca6-b57b-fd792a42ddcb.png">
+<img width="1153" alt="image" src="https://user-images.githubusercontent.com/74632408/229340703-bff2f8a1-cedf-4df5-8ae7-2a1a8ed47b81.png">
 
 2. AES-CTR mode (counter mode)
-<img width="1099" alt="image" src="https://user-images.githubusercontent.com/74632408/229339829-a1e0db7a-24d3-41d0-a359-ec525a5bfc77.png">
+<img width="1145" alt="image" src="https://user-images.githubusercontent.com/74632408/229340727-2bf3a7e5-5337-4181-8bd3-ef570aa71a85.png">
 
 3. ChaCha20
-<img width="1015" alt="image" src="https://user-images.githubusercontent.com/74632408/229339856-02c0cf6f-57c7-4769-b8e6-61542191d861.png">
+<img width="1064" alt="image" src="https://user-images.githubusercontent.com/74632408/229340738-0d3f5153-dba9-4ac7-b7d5-127ae7c161e7.png">
