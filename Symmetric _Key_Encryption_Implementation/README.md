@@ -1,19 +1,20 @@
 
 # 1. AES-CBC mode
  
-  <img width="1153" alt="image" src="https://user-images.githubusercontent.com/74632408/229340703-bff2f8a1-cedf-4df5-8ae7-2a1a8ed47b81.png">
+  <img width="1146" alt="image" src="https://user-images.githubusercontent.com/74632408/229342094-df611a44-31f3-47fe-9a72-25a2314c5fa6.png">
   <br />
-  <img width="830" alt="image" src="https://user-images.githubusercontent.com/74632408/229341874-08c49bdb-8713-4e28-aef9-6e5248b930d8.png">
+  <img width="825" alt="image" src="https://user-images.githubusercontent.com/74632408/229342019-4f6e2317-379b-4eb3-885d-f0f48b632a2d.png">
+
 
 # 2. AES-CTR mode (counter mode)
   
-  <img width="1145" alt="image" src="https://user-images.githubusercontent.com/74632408/229340727-2bf3a7e5-5337-4181-8bd3-ef570aa71a85.png">
+  <img width="1160" alt="image" src="https://user-images.githubusercontent.com/74632408/229342123-b39c35a6-ca76-4fd2-8e1f-b36f8ab42639.png">
   <br />
-  <img width="822" alt="image" src="https://user-images.githubusercontent.com/74632408/229341911-e8bf6cc4-4a80-43e0-970a-0b1d70a11e86.png">
+  <img width="825" alt="image" src="https://user-images.githubusercontent.com/74632408/229342055-cfbbc3a7-5301-4b23-925d-4a4adef82066.png">
+
 
 # 3. ChaCha20
   
-  <img width="1064" alt="image" src="https://user-images.githubusercontent.com/74632408/229340738-0d3f5153-dba9-4ac7-b7d5-127ae7c161e7.png">
+  <img width="1072" alt="image" src="https://user-images.githubusercontent.com/74632408/229342147-018bbdf8-2ee2-4459-afb3-70891aded73f.png">
   <br />
-  <img width="822" alt="image" src="https://user-images.githubusercontent.com/74632408/229341727-347c290a-81ef-4a8d-a60f-2879373df3bd.png">
-
+  <img width="784" alt="image" src="https://user-images.githubusercontent.com/74632408/229342078-5352525b-2a3d-4818-9fbe-274c5476ee70.png">
