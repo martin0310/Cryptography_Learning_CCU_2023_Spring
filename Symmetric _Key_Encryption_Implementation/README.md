@@ -9,7 +9,7 @@
   
   <img width="1145" alt="image" src="https://user-images.githubusercontent.com/74632408/229340727-2bf3a7e5-5337-4181-8bd3-ef570aa71a85.png">
   <br />
-  <img width="1413" alt="image" src="https://user-images.githubusercontent.com/74632408/229341700-ad0db547-16ac-4dbc-9095-f0214e3f73aa.png">
+  <img width="822" alt="image" src="https://user-images.githubusercontent.com/74632408/229341911-e8bf6cc4-4a80-43e0-970a-0b1d70a11e86.png">
 
 # 3. ChaCha20
   
