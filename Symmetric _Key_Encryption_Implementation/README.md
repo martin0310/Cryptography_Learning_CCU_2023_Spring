@@ -3,9 +3,10 @@
      <img width="431" alt="image" src="https://user-images.githubusercontent.com/74632408/229338722-7014fab6-f9a0-4850-9b9e-42cf8fa5654e.png">
      <br />
      * Encryption Speed (Number of Bytes Encrypted per Second)
+     * Compare the Decrypted File with the Original File to Prove the Correctness of the Implementation
      <img width="665" alt="image" src="https://user-images.githubusercontent.com/74632408/229338905-00e5569f-9ac8-4ec1-9892-85d05a4b72d7.png">
      <br />
-     * Compare the Decrypted File with the Original File to Prove the Correctness of the Implementation
+     
      <img width="321" alt="image" src="https://user-images.githubusercontent.com/74632408/229339039-7f15bdbd-d2ac-4d1f-bebf-8d82ce7f28d8.png">
      <br />
 
